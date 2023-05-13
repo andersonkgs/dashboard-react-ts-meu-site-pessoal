@@ -1,0 +1,46 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "teste@email.com",
+      "password": "teste@123"
+    }
+  ],
+  "informacoes": [
+    {
+      "foto": "https://github.com/andersonkgs.png",
+      "nome": "Anderson Silva",
+      "cargo": "Desenvolvedor de Software",
+      "sobre": "No trabalho: experiente em diversas áreas de trabalho, sempre comprometido com a minha função no dia a dia da empresa, proativo, criativo, eficiente, dedicado e resolutivo.\n\nNa vida por aí a fora: sou caseiro, adoro ver uma boa série e um bom filme. Gosto bastante também de me divertir com alguns jogos eletrônicos. Sou amante do bom e eterno rock 'n' roll. Só saio de casa nas horas vagas se for por um bom motivo, comida e diversão com uns amigos é um bom motivo!",
+      "id": 1
+    }
+  ],
+  "experiencias": [
+    {
+      "id": 1,
+      "tipo": "Profissional",
+      "titulo": "Desenvolvedor de Software Full Stack",
+      "descricao": "Comeia",
+      "local": "Home Office",
+      "dataInicio": "08/2023",
+      "dataFim": "Atual"
+    },
+    {
+      "id": 2,
+      "tipo": "Academica",
+      "titulo": "Curso de Programação",
+      "descricao": "Curso Básico de JavaScript",
+      "local": "CursoemVideo.com/Online",
+      "dataInicio": "-",
+      "dataFim": "cursando/2023"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "description": "Site criado por mim, como parte da avaliação do módulo de HTML e CSS do Comeia Academy.",
+      "image": "https://i.ibb.co/VSLrLyr/portfolio-atelier-flor-azul.png",
+      "link": "https://andersonkgs.github.io/site-atelier-flor-azul/"
+    }
+  ]
+}

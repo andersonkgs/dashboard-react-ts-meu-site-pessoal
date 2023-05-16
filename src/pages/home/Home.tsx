@@ -64,12 +64,12 @@ const Home = () => {
                 <InfoBox
                     title="Experiências Profissionais"
                     value={experienciasProfissionais.length}
-                    icon={<FaBriefcase size={65}/>}
+                    icon={<FaBriefcase/>}
                 />
                 <InfoBox
                     title="Projetos no Portfólio"
                     value={portfolio.length}
-                    icon={<FaFolder size={65}/>}
+                    icon={<FaFolder/>}
                 />
             </div>
         </main>
